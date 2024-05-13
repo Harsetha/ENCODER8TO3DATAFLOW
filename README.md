@@ -56,15 +56,18 @@ endmodule
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+
 ![318336421-e004a1b2-2ea9-4abe-85e5-90827a70fe26](https://github.com/Harsetha/ENCODER8TO3DATAFLOW/assets/149985878/91c1515c-2e06-4d03-a4f2-0cc96a642f55)
 
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+
 ![318336444-9b65a891-6726-408b-a22c-1d77056e633a](https://github.com/Harsetha/ENCODER8TO3DATAFLOW/assets/149985878/a59d1c2d-7ef3-43f0-9c0b-748736918225)
 
 
 
 **RESULTS**
+
 Thus, the implement Encoder 8 To 3 in Dataflow Modelling using verilog in Quartus software is successfully verified.
 
 
